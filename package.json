@@ -9,11 +9,11 @@
   "author": "Mike Eason",
   "license": "MIT",
   "dependencies": {
-    "edge-js": "^15.5.2"
+    "edge-js": "^21.7.2"
   },
   "devDependencies": {
-    "mock-require": "^2.0.2",
-    "tap": "^10.1.1"
+    "mock-require": "^3.0.3",
+    "tap": "^18.7.2"
   },
   "repository": {
     "type": "git",
